@@ -3,6 +3,9 @@
 平台    |    前端   |   后端  |   线上  |
 :---:   |  :---:   |  :---:  | :---:    |
 阿里巴巴    |   [0049ali产品展示1200](http://192.168.3.108/jdmoban/0049ali%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA1200.html)  |   [ali_chanpin12wnew](http://192.168.3.11/web_root/html/tool/ali_chanpin12wnew.html)  |   [ali_chanpin12](http://www.001daima.com/html/tool/ali_chanpin12.html)
+淘宝天猫    |   [039_tm_产品展示](http://192.168.3.108/JDmoban/pcTpl/TM/039_tm_%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA.html)  ||
+阿里巴巴    |   [039_ali_产品展示](http://192.168.3.108/JDmoban/pcTpl/Ali/039_ali_%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA.html)  ||
+京东商城    |   [039_jd_产品展示](http://192.168.3.108/JDmoban/pcTpl/JD/039_jd_%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA.html)  || 
 淘宝天猫    |   [038_tm_产品展示](http://192.168.3.108/JDmoban/pcTpl/TM/038_tm_%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA.html)  ||
 阿里巴巴    |   [038_ali_产品展示](http://192.168.3.108/JDmoban/pcTpl/Ali/038_ali_%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA.html)  ||
 京东商城    |   [038_jd_产品展示](http://192.168.3.108/JDmoban/pcTpl/JD/038_jd_%E4%BA%A7%E5%93%81%E5%B1%95%E7%A4%BA.html)  || 
