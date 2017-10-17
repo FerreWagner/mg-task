@@ -2,6 +2,9 @@
 
 平台    |    前端   |   后端  |   线上  |
 :---:   |  :---:   |  :---:  | :---:    |
+淘宝天猫    |   [045_tm_产品轮播](http://192.168.3.108/JDmoban/pcTpl/TM/045_tm_产品展示.html) ||
+阿里巴巴    |   [045_ali_产品展示](http://192.168.3.108/JDmoban/pcTpl/Ali/045_ali_产品展示.html) ||
+京东商城    |   [045_jd_产品轮播](http://192.168.3.108/JDmoban/pcTpl/JD/045_jd_产品展示.html) ||
 淘宝天猫    |   [044_tm_产品轮播](http://192.168.3.108/JDmoban/pcTpl/TM/044_tm_产品展示.html) ||
 阿里巴巴    |   [044_ali_产品展示](http://192.168.3.108/JDmoban/pcTpl/Ali/044_ali_产品展示.html) ||
 京东商城    |   [044_jd_产品轮播](http://192.168.3.108/JDmoban/pcTpl/JD/044_jd_产品展示.html) ||
