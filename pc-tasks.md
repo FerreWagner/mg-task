@@ -2,6 +2,21 @@
 
 平台    |    前端   |   后端  |   线上  |
 :---:   |  :---:   |  :---:  | :---:    |
+淘宝天猫 | [060_tm_产品展示](http://192.168.3.108/JDmoban/pcTpl/TM/060_tm_产品展示.html) ||
+阿里巴巴 | [060_ali_产品展示](http://192.168.3.108/JDmoban/pcTpl/Ali/060_ali_产品展示.html) ||
+京东商城 | [060_jd_产品展示](http://192.168.3.108/JDmoban/pcTpl/JD/060_jd_产品展示.html) ||
+淘宝天猫 | [059_tm_产品展示](http://192.168.3.108/JDmoban/pcTpl/TM/059_tm_产品展示.html) ||
+阿里巴巴 | [059_ali_产品展示](http://192.168.3.108/JDmoban/pcTpl/Ali/059_ali_产品展示.html) ||
+京东商城 | [059_jd_产品展示](http://192.168.3.108/JDmoban/pcTpl/JD/059_jd_产品展示.html) ||
+淘宝天猫 | [058_tm_分类导航](http://192.168.3.108/JDmoban/pcTpl/TM/058_tm_分类导航.html) ||
+阿里巴巴 | [058_ali_分类导航](http://192.168.3.108/JDmoban/pcTpl/Ali/058_ali_分类导航.html) ||
+京东商城 | [058_jd_分类导航](http://192.168.3.108/JDmoban/pcTpl/JD/058_jd_分类导航.html) ||
+淘宝天猫 | [057_tm_分类导航](http://192.168.3.108/JDmoban/pcTpl/TM/057_tm_分类导航.html) ||
+阿里巴巴 | [057_ali_分类导航](http://192.168.3.108/JDmoban/pcTpl/Ali/057_ali_分类导航.html) ||
+京东商城 | [057_jd_分类导航](http://192.168.3.108/JDmoban/pcTpl/JD/057_jd_分类导航.html) ||
+淘宝天猫 | [056_tm__产品轮播](http://192.168.3.108/JDmoban/pcTpl/TM/056_tm_产品轮播.html) ||
+阿里巴巴 | [056_ali__产品展示](http://192.168.3.108/JDmoban/pcTpl/Ali/056_ali_产品展示.html) ||
+京东商城 | [056_jd__产品轮播](http://192.168.3.108/JDmoban/pcTpl/JD/056_jd_产品轮播.html) ||
 淘宝天猫 | [055_tm_优惠券](http://192.168.3.108/JDmoban/pcTpl/TM/055_tm_优惠券.html) ||
 阿里巴巴 | [055_ali_优惠券](http://192.168.3.108/JDmoban/pcTpl/Ali/055_ali_优惠券.html) ||
 京东商城 | [055_jd_优惠券](http://192.168.3.108/JDmoban/pcTpl/JD/055_jd_优惠券.html) ||
